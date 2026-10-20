@@ -1,0 +1,18 @@
+{
+  "name": "jeongph-why-is-my-claude-dumb",
+  "owner": {
+    "name": "jeongph"
+  },
+  "description": "Marketplace for why-is-my-claude-dumb",
+  "plugins": [
+    {
+      "name": "why-is-my-claude-dumb",
+      "description": "개발 환경과 설치된 도구를 살펴보고, 작업에 도움이 될 공식 마켓플레이스 플러그인을 추천합니다.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jeongph/why-is-my-claude-dumb.git",
+        "sha": "23bcd6ca6598d9290ca7760344670e8d8782e11e"
+      }
+    }
+  ]
+}
